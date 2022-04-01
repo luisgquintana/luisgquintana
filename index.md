@@ -23,10 +23,10 @@ Azure Security center | R                                   | Ansible           
 
 These are the skills that I do not longer apply on a daily basis, skills I have learnt for my own enjoyment and skills I am still learning 
 
-Data Science           | Decentralized Ledger Technologies   | CI/CD Pipelines                      | Database and Reporting 
----                    | ---                                 |---                                   | ---
-Tensorflow and Keras   | Solidity                            | CircleCI                             | SQL
-Data Cleaning          | DLT architecture                    | Jenkins                              | EDA (Pandas, Seaborn)
-Streamlit              | Cryptocurrency                      | Git Actions                          | JQL
+Data Science           | Decentralized Ledger Technologies   | CI/CD Pipelines
+---                    | ---                                 |---                                   
+Tensorflow and Keras   | Solidity                            | CircleCI                           
+Data Cleaning          | DLT architecture                    | Jenkins                              
+Streamlit              | Cryptocurrency                      | Git Actions                         
 
 P.S. You can find how to create a page like this under the Project section!
