@@ -7,7 +7,7 @@ label: Education
                           
 ## Bachelor Degree
 
-**Tampere University of Applied Sciences, Finland| 2014-2017** 
+### **Tampere University of Applied Sciences, Finland| 2014-2017** 
 Bachelor in Business Administration (BBA)
 
 Double major: Finance and Consulting
