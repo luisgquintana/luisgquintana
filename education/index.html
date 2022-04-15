@@ -24,11 +24,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.703261921990" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.703360344997" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.703261921990" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.703360344997" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.703261921990" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.703360344997" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -188,12 +188,9 @@
         <span>Education</span>
     </h1>
 </doc-anchor-target>
-<doc-anchor-target id="bachelor-degree">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#bachelor-degree">#</doc-anchor-trigger>
-        <span>Bachelor Degree</span>
-    </h2>
-</doc-anchor-target>
+<doc-tabs>
+<doc-tab id="bachelor-degree">
+<template #title>Bachelor Degree</template>
 <doc-anchor-target id="tampere-university-of-applied-sciences-finland--2014-2017">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#tampere-university-of-applied-sciences-finland--2014-2017">#</doc-anchor-trigger>
@@ -211,12 +208,9 @@
 <li>International Tutor</li>
 <li>Winner of CESIM global challenge.</li>
 </ul>
-<doc-anchor-target id="bootcamps">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#bootcamps">#</doc-anchor-trigger>
-        <span>Bootcamps</span>
-    </h2>
-</doc-anchor-target>
+</doc-tab>
+<doc-tab id="bootcamps">
+<template #title>Bootcamps</template>
 <doc-anchor-target id="xxcelerate-hong-kong--2019">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#xxcelerate-hong-kong--2019">#</doc-anchor-trigger>
@@ -224,6 +218,8 @@
     </h3>
 </doc-anchor-target>
 <p>Machine Learning Bootcamp, with a focus on Python, R, linear machine learning and neural networks.</p>
+</doc-tab>
+</doc-tabs>
 
 
 
