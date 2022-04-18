@@ -6,7 +6,7 @@ label: Work Experience
 
 === DevSecOps and Atlassian Consultant at SQLI, Barcelona | Jun 2021 - Current
 
-DevSecOps                                              | Atlassian  
+DevSecOps                                              | Atlassian  { class="compact" }
 ---                                                    | ---
  Migrated Jira Server VM from OpenStack to VMware      | Administer Jira, Jira Service Desk, Crowd, Bitbucket and Confluence
  Implemented a new documenation and onboarding process | Solve Service Desk incidents and tickets
@@ -25,11 +25,11 @@ Provisioned and configured a high availability cluster that hosted a confluence 
 - Automated Server Migration MediaWiki to Confluence
 Created Python scripts using selenium to automate the migration of content between MediaWiki to confluence. This project lasted for a month.
 
-=== Financial and Technical Advisor at Cubiex.com, Germany | 2018-2019
+===- Financial and Technical Advisor at Cubiex.com, Germany | 2018-2019
 
 Attracted over 60,000 euros in seed capital and created several key partnerships in Asia and Europe.
 
-=== Assistant Auditor at TGS Edisa Auditores, Spain | 2017
+===- Assistant Auditor at TGS Edisa Auditores, Spain | 2017
 Managed to duplicate the rate at which we filed taxes by automating manual tasks. Additionally led the data migration from their legacy accounting software to a newer software.
 ===
 
