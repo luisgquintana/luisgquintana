@@ -6,7 +6,12 @@ label: Work Experience
 
 === DevSecOps and Atlassian Consultant at SQLI, Barcelona | Jun 2021 - Current
 
-
+DevSecOps                                              | Atlassian  
+---                                                    | ---
+ Migrated Jira Server VM from OpenStack to VMware      | Administer Jira, Jira Service Desk, Crowd, Bitbucket and Confluence
+ Implemented a new documenation and onboarding process | Solve Service Desk incidents and tickets
+ Administer and solve security incidents               | Automated the data migration between two instnaces of Confluence and Bitbucket
+ 
 
 === Junior DevOps Consultant at  Appnovation, Hong Kong | 2019
 As a DevOps consultant at Appnovation my responsibility was to help our clients to advancetheir business through digital transformation.During my time at appnovation I completed the following projects:
