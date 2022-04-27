@@ -12,7 +12,8 @@ As an DevSecOps and Atlassian consultant for a major F&B client my recurrent res
 - React and resolve security alerts and vulnerabilities 
 - Create and mantain cyber-security dasboards for our stakeholders 
 
-I have worked on the following projects: 
+**I have worked on the following projects: **
+
 DevSecOps                                               | Atlassian
 ---                                                     | ---
  Migrated Jira Server VM from OpenStack to VMware       | Created scriptrunner scripts to automate workflows processes in Jira
