@@ -12,7 +12,7 @@ As an DevSecOps and Atlassian consultant for a major F&B client my recurrent res
 - React and resolve security alerts and vulnerabilities 
 - Create and mantain cyber-security dasboards for our stakeholders 
 
-**I have worked on the following projects: **
+**I have worked on the following projects:**
 
 DevSecOps                                               | Atlassian
 ---                                                     | ---
