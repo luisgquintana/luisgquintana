@@ -6,13 +6,19 @@ label: Work Experience
 
 === DevSecOps and Atlassian Consultant at SQLI, Barcelona | Jun 2021 - Current
 
-As an DevSecOps and Atlassian consultant for a major F&B client my responsabilities and projects include:
+As an DevSecOps and Atlassian consultant for a major F&B client my recurrent responsabilities are:
+- To administer and mantain Jira, Jira Service Desk, Crowd, Bitbucket, and Confluence
+- To solve Service Desks tickets and production incidents
+- React and resolve security alerts and vulnerabilities 
+- Create and mantain cyber-security dasboards for our stakeholders 
 
-DevSecOps                                              | Atlassian
----                                                    | ---
- Migrated Jira Server VM from OpenStack to VMware      | Administer Jira, Jira Service Desk, Crowd, Bitbucket and Confluence
- Implemented a new documenation and onboarding process | Solve Service Desk incidents and tickets
- Administer and solve security incidents               | Automated the data migration between two instnaces of Confluence and Bitbucket
+I have worked on the following projects: 
+DevSecOps                                               | Atlassian
+---                                                     | ---
+ Migrated Jira Server VM from OpenStack to VMware       | Created scriptrunner scripts to automate workflows processes in Jira
+ Implemented a new documenation and onboarding process  | Created Service Desk automations to improve customer satisfaction
+ Update our Atlassian applications to the latest LTS    | Automated data migration processes between two instances of Confluence and Bitbucket
+ Monitor and improve our Azure resources and dashboards | Created a customer service standard for Service Desk  
  
 
 === Junior DevOps Consultant at  Appnovation, Hong Kong | 2019
