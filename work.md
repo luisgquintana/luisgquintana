@@ -26,13 +26,13 @@ DevSecOps                                                  | Atlassian
 As a DevOps consultant at Appnovation, my responsibility was to help our clients to advance their business through digital transformation. During my time at Appnovation, I completed the following projects:
 
 - **CI-CD Pipeline for a Web Application:**
-Created and debugged Ansible playbooks, CircleCI jobs andworkflows, and drafted documentation. Duration - 4 months
+Created and debugged (Ansible)[https://www.ansible.com/] playbooks, (CircleCI) [https://circleci.com/signup/?utm_source=google&utm_medium=sem&utm_campaign=sem-google-dg--emea-en-brandAuth-maxConv-auth-brand&utm_term=g_e-circleci_c__linuxSU_20210604&utm_content=sem-google-dg--emea-en-brandAuth-maxConv-auth-brand_keyword-text_eta-circleCI_exact-&gclid=CjwKCAjw9qiTBhBbEiwAp-GE0Urq8ncjVSJB2Eah9aa2TkCgFJXU3sMDxF3fnpNXimHQxtXQFEF49xoCMroQAvD_BwE] jobs andworkflows, and drafted documentation. Duration - 4 months
 
 - **Confluence Server Active-Passive High Availability Cluster:**
 Provisioned and configured a high availability cluster that hosted a confluence server, using AWS and Microsoft SQL server. Duration - 2 months
 
 - **Automated Server Migration MediaWiki to Confluence:**
-Created Python scripts using selenium to automate the migration of content between MediaWiki to Confluence. Duration - 1 months
+Created Python scripts using (Selenium)[https://www.selenium.dev/] to automate the migration of content between MediaWiki to Confluence. Duration - 1 months
 
 ==- Financial and Technical Advisor at Cubiex.com, Germany | 2018-2019
 
