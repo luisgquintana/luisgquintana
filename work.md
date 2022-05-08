@@ -16,8 +16,8 @@ As a [DevSecOps](https://www.synopsys.com/glossary/what-is-devsecops.html#:~:tex
 
 DevSecOps                                                  | Atlassian
 ---                                                        | ---
- Migrated Jira Server VM from [OpenStack](https://www.openstack.org/) to [VMware](https://www.vmware.com/)         | Created scriptrunner scripts to automate workflows processes in Jira
- Implemented a new documenation and onboarding process     | Created Service Desk automations to improve customer satisfaction
+ Migrated Jira Server VM from [OpenStack](https://www.openstack.org/) to [VMware](https://www.vmware.com/)         | Created scriptrunner scripts to automate workflow processes in Jira
+ Implemented a new documentation and onboarding process     | Created Service Desk automation to improve customer satisfaction
  Updated our Atlassian applications to current LTS         | Automated data migration processes between two instances of Confluence and Bitbucket
  Monitored and improved our Azure resources and dashboards | Created a customer service standard for Service Desk  
  
